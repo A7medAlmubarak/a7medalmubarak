@@ -1,6 +1,18 @@
+<div align="center">
+  <kbd width="100%">
+  <a style="border:5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&size=36&duration=1500&pause=800&color=016EEA5&center=true&vCenter=true&width=1000&lines=Hello+🌍;I'm+A7med+😊; 💻+Backend+Developer+💻; Welcome+to+my+GitHub;Thank+You+for+Visiting+!" /></a>
+  </kbd>
+
+</br>
+
+<kbd >
+  <img src="gifdev.gif" width="100%"alt="Bot-Developer"/>
+</kbd>
+</div>
+
+
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
-<h1 align="center"> I'm A7med 👨‍🎤</h1>
 <h3 align="center">A Passionate Backend Software Developer from Syria </h3>
 <h3 align="center"><i><b> 🌈On a beautiful journey of becoming a better Backend Developer☄️</b></i></h3>
 
